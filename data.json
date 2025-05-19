@@ -1,614 +1,202 @@
 [
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:02"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:02"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:16:00"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:03"
+    "timestamp": "2025-05-15 14:16:03"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:04"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:16:04"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:05"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:05"
+    "message": "Dustbin ID: Dustbin001 - Dustbin is not full!",
+    "timestamp": "2025-05-15 14:16:14"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:06"
+    "timestamp": "2025-05-15 14:16:17"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:06"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:16:17"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:07"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:07"
+    "message": "Dustbin ID: Dustbin001 - Dustbin is not full!",
+    "timestamp": "2025-05-15 14:16:27"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:08"
+    "timestamp": "2025-05-15 14:16:31"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:09"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:16:31"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:10"
+    "message": "Dustbin ID: Dustbin001 - Dustbin is not full!",
+    "timestamp": "2025-05-15 14:16:41"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:10"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:16"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:16"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:16:46"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:17"
+    "timestamp": "2025-05-15 14:16:49"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:17"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:16:50"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:18"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:18"
+    "message": "Dustbin ID: Dustbin001 - Dustbin is not full!",
+    "timestamp": "2025-05-15 14:17:00"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:20"
+    "timestamp": "2025-05-15 14:17:03"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:20"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:17:03"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:21"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:21"
+    "message": "Dustbin ID: Dustbin001 - Dustbin is not full!",
+    "timestamp": "2025-05-15 14:17:13"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:22"
+    "timestamp": "2025-05-15 14:17:16"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:22"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:17:17"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:23"
+    "message": "Dustbin ID: Dustbin001 - Dustbin is not full!",
+    "timestamp": "2025-05-15 14:17:27"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:23"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:25"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:25"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:17:32"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:26"
+    "timestamp": "2025-05-15 14:17:35"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:26"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:27"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:27"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:17:35"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:28"
+    "timestamp": "2025-05-15 14:21:39"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:28"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:21:39"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:29"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:30"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:21:59"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:31"
+    "timestamp": "2025-05-15 14:22:02"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:31"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:32"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:32"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:22:02"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:33"
+    "timestamp": "2025-05-15 14:22:20"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:22:21"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:22:41"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Odor detected!",
+    "timestamp": "2025-05-15 14:22:44"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:22:44"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Odor detected!",
+    "timestamp": "2025-05-15 14:23:02"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:23:02"
+  },
+  {
+    "message": "Dustbin ID: Dustbin001 - Odor not detected.",
+    "timestamp": "2025-05-15 14:23:37"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Hand detected: Lid opening.",
-    "timestamp": "2025-05-15 13:39:33"
+    "timestamp": "2025-05-15 14:23:42"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:33"
+    "message": "Dustbin ID: Dustbin001 - Odor not detected.",
+    "timestamp": "2025-05-15 14:23:50"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:35"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:23:55"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:35"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:24:16"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:36"
+    "message": "Dustbin ID: Dustbin001 - Odor not detected.",
+    "timestamp": "2025-05-15 14:24:19"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:36"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:24:24"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:37"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:37"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:25:39"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:38"
+    "timestamp": "2025-05-15 14:25:43"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:38"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:39"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:40"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:25:43"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:41"
+    "timestamp": "2025-05-15 14:26:01"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:41"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:26:01"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:42"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:42"
+    "message": "Dustbin ID: Dustbin001 - Dustbin Location (LBS): not fetched ",
+    "timestamp": "2025-05-15 14:26:21"
   },
   {
     "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:43"
+    "timestamp": "2025-05-15 14:26:24"
   },
   {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:43"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:44"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:45"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:46"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:46"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:52"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:52"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:53"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:53"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:54"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:54"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:56"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:56"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:57"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:57"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:58"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:58"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:39:59"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:39:59"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:01"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:01"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:02"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:02"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:03"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:03"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:04"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:04"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:06"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:06"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:07"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:07"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:08"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:08"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:09"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:09"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:11"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:11"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:12"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:12"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:13"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:13"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:14"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:14"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:16"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:16"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:17"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:17"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:18"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:19"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:20"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:20"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:21"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:24"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:30"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:30"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:31"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:31"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:32"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:32"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:34"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:34"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:35"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:35"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:36"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:36"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:37"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:37"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:39"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:39"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:40"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:40"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:41"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:41"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:42"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:43"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:44"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:44"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:45"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:45"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:46"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:46"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:47"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:47"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:49"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:49"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:50"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:50"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:51"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:51"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:52"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:52"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Odor detected!",
-    "timestamp": "2025-05-15 13:40:53"
-  },
-  {
-    "message": "Dustbin ID: Dustbin001 - Dustbin is full!",
-    "timestamp": "2025-05-15 13:40:54"
+    "message": "Dustbin ID: Dustbin001 - Hand detected: Lid not opening.",
+    "timestamp": "2025-05-15 14:26:25"
   }
 ]

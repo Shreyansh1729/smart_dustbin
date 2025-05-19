@@ -3,21 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <title>Smart Dustbin Dashboard</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>🧠 Smart Dustbin Live Dashboard</h1>
+    <h1>
+        🧠 Smart Dustbin Live Dashboard
+        {% if selected_dustbin_id %}
+            - {{ selected_dustbin_id }}
+        {% elif all_dustbin_ids %}
+            - All Dustbins
+        {% endif %}
+    </h1>
+
+    <div class="filter-container">
+        <form method="GET" action="{{ url_for('dashboard') }}">
+            <label for="dustbin_id_select">Filter by Dustbin ID:</label>
+            <select name="dustbin_id" id="dustbin_id_select" onchange="this.form.submit()">
+                <option value="">All Dustbins</option>
+                {% for id in all_dustbin_ids %}
+                <option value="{{ id }}" {% if id == selected_dustbin_id %}selected{% endif %}>{{ id }}</option>
+                {% endfor %}
+            </select>
+            <!-- No explicit submit button needed due to onchange handler -->
+        </form>
+    </div>
+
+    {% if logs %}
     <table>
-        <tr>
-            <th>Timestamp</th>
-            <th>Message</th>
-        </tr>
-        {% for log in logs %}
-        <tr>
-            <td>{{ log.timestamp }}</td>
-            <td>{{ log.message }}</td>
-        </tr>
-        {% endfor %}
+        <thead>
+            <tr>
+                <th>Timestamp</th>
+                <th>Message</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for log in logs %}
+            <tr>
+                <td>{{ log.timestamp }}</td>
+                <td>{{ log.message }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
     </table>
+    {% else %}
+    <p class="no-data-message">
+        No log data available
+        {% if selected_dustbin_id %}
+            for {{ selected_dustbin_id }}.
+        {% else %}
+            .
+        {% endif %}
+        Try selecting "All Dustbins" or check if notifications are being sent.
+    </p>
+    {% endif %}
 </body>
 </html>

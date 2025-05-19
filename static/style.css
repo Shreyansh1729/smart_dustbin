@@ -3,33 +3,76 @@ body {
     background-color: #f4f6f8;
     margin: 0;
     padding: 20px;
+    color: #333;
 }
 
 h1 {
     color: #2c3e50;
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px; /* Reduced margin */
+}
+
+.filter-container {
+    width: 90%;
+    max-width: 600px; /* Max width for better responsiveness on large screens */
+    margin: 0 auto 25px auto; /* Centered with bottom margin */
+    padding: 15px 20px;
+    background: #ffffff;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    text-align: center; 
+}
+
+.filter-container label {
+    margin-right: 10px;
+    font-weight: bold;
+    color: #2c3e50;
+    font-size: 0.95em;
+}
+
+.filter-container select {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9em;
+    background-color: #fff;
+    cursor: pointer;
 }
 
 table {
     width: 90%;
+    max-width: 1000px; /* Max width for table */
     margin: auto;
     border-collapse: collapse;
     background: #ffffff;
-    box-shadow: 0px 0px 10px #ccc;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+    border-radius: 8px; /* Rounded corners for the table */
+    overflow: hidden; /* To make border-radius work with th */
 }
 
 th, td {
     padding: 12px 15px;
     border-bottom: 1px solid #dddddd;
+    text-align: left;
 }
 
 th {
     background-color: #3498db;
     color: white;
-    text-align: left;
+    font-weight: bold; /* Ensure header text is bold */
+}
+
+tr:nth-child(even) { /* Zebra striping for better readability */
+    background-color: #f9f9f9;
 }
 
 tr:hover {
-    background-color: #f1f1f1;
+    background-color: #eaf5fc; /* Light blue hover */
+}
+
+.no-data-message {
+    text-align: center;
+    font-size: 1.1em;
+    color: #777;
+    margin-top: 30px;
 }
